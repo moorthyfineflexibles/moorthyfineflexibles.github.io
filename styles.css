@@ -29,7 +29,7 @@ body
 
 #intro:hover, #products:hover 
 {
-    box-shadow: 0 8px 80px rgba(50, 0, 0);
+    box-shadow: 0 8px 60px rgb(35, 0, 0);
 }
 
 #title
